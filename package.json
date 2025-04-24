@@ -1,6 +1,6 @@
 {
   "name": "svd-sandbox",
-  "homepage": "/public/preview-ads-public/",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
